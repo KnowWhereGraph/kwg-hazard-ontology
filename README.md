@@ -1,0 +1,1 @@
+# kwg-hazard-ontology
