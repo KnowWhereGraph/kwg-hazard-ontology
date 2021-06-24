@@ -2,7 +2,7 @@
 
 Author: Mark Schildhauer, schild@nceas.ucsb.edu
 
-Extensive search between March-June 2021 failed to find adequate semantically-constructed typologies of hazard and disaster types, that will be necessary for facilitating search and interpretation of the contents of the hazard and disaster datasets accessible through the KnowWhereGraph.  Our understanding is efforts to develop such a "Hazards Ontology" are  underway in the United Nations Office for Disaster Risk Reduction (UNDRR), but no products (e.g. an RDF vocabulary) are yet available.
+Extensive search between March-June 2021 failed to find adequate semantically-constructed typologies of hazard and disaster types, that will be necessary for facilitating search and interpretation of the contents of the hazard and disaster datasets accessible through the KnowWhereGraph.  Our understanding is that efforts to develop such a "Hazards Ontology" are  underway in the United Nations Office for Disaster Risk Reduction (UNDRR), but no products (e.g. an RDF vocabulary) are yet available.
 
 This current ontology is based on the typologies drawn from the UNDRR's "Hazard definition and classification Review (2020), https://www.undrr.org/publication/hazard-definition-and-classification-review.  
 
