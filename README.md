@@ -4,11 +4,11 @@ Author: Mark Schildhauer, schild@nceas.ucsb.edu
 
 Extensive search between March-June 2021 failed to find adequate semantically-constructed typologies of hazard and disaster types, that will be necessary for facilitating search and interpretation of the contents of the hazard and disaster datasets accessible through the KnowWhereGraph.  Our understanding is that efforts to develop such a "Hazards Ontology" are  underway in the United Nations Office for Disaster Risk Reduction (UNDRR), but no products (e.g. an RDF vocabulary) are yet available.
 
-This current ontology is based on the typologies drawn from the UNDRR's "Hazard definition and classification Review (2020), https://www.undrr.org/publication/hazard-definition-and-classification-review.  
+As the need for such a resource is time-sensitive for our project, we are constructing an ontology (this repo) based on formalizing natural language typologies from high-credibility sources, and metadata schemas of prominent databases documenting hazard and disaster events.
 
-In addition, terms were drawn from the Integrated Research on Disaster Risk, "IRDR" organization's "Peril and Hazard Glossary" (2014) https://www.irdrinternational.org/knowledge_pool/publications/173.
+Terms were drawn from the Integrated Research on Disaster Risk, "IRDR" organization's "Peril and Hazard Glossary" (2014) https://www.irdrinternational.org/knowledge_pool/publications/173; and the UNDRR's "Hazard definition and classification Review (2020), https://www.undrr.org/publication/hazard-definition-and-classification-review.
 
-Additional terms were used from the metadata file https://cemhs.asu.edu/sites/default/files/2018-05/sheldus_readme.pdf of the
+Additional terms were pulled from the metadata file https://cemhs.asu.edu/sites/default/files/2018-05/sheldus_readme.pdf of the
 "Spatial Hazard and Events Database for the United States" (SHELDUS).
 
 Additional terms were drawn from values in the NOAA Storm Event Database, https://www.ncdc.noaa.gov/stormevents/
